@@ -3,10 +3,19 @@ body{
 }
 h1{ 
     font-size: 75px;
+    font-weight: 700;
     
 }
 .orange-color{
 color: orange;
+}
+.bar{
+    border-left: solid 7px;
+    color: rgba(253, 24, 8, 0.699);
+    border-radius: 5px;
+}
+#black{
+    color: black;
 }
 section{
     display: flex;
@@ -28,4 +37,23 @@ a{ font-size: 25px;}
     background-color: rgba(253, 24, 8, 0.699);
     padding: 20px 40px;
     border-radius: 10px;
+}
+#center{ color: rgb(2, 2, 36);
+    font-size: 70px;
+    font-weight: 700;
+    text-align: center;
+    
+}
+.h2tag{
+    color:orange ;
+}
+.one-third{
+    width: 33.33333333%;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: left;
+    
+}
+h3{ 
+    font-size: 50px;
 }
