@@ -109,3 +109,8 @@ h2{
    padding-right: 10%;
 
 }
+#align{
+    font-size: 70px;
+    font-weight: 700;
+    text-align: left;
+}
