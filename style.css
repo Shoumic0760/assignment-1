@@ -71,6 +71,7 @@ border-color:  rgb(165, 194, 191);}
 .width-half{ width: 50%;
     padding-left: 10%;
     padding-right: 2%;
+    margin-bottom: 10%;
     
 }
 #background2{
@@ -81,10 +82,30 @@ border-color:  rgb(165, 194, 191);}
     margin-left: 5%;
 
 }
-.width-half img{width: 100% ;
+.width-half img{ 
+    width: 100% ;
+
 
 }
 h2{
     font-size: 50px;
     font-weight: 700;
+}
+.global{ width: 50%;
+   margin-left: 10%;
+   margin-bottom: 10%;
+   margin-right: 2%;
+
+
+}
+.global img{
+    width: 70%;
+   
+}
+#background3{background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-position: bottom;
+   padding-right: 10%;
+
 }
