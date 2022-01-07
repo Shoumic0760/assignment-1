@@ -49,11 +49,21 @@ a{ font-size: 25px;}
 }
 .one-third{
     width: 33.33333333%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
     text-align: left;
-    
+    border-radius: 50px;
+padding: 2%;    
+}
+.one-third img{width: 50%;
 }
 h3{ 
     font-size: 50px;
 }
+#center-part{background-color: rgb(236, 203, 225);
+    border-color: rgb(236, 203, 225);
+}
+#left-part{background-color: rgb(177, 223, 223);
+border-color: rgb(177, 223, 223);}
+#right-part{background-color: rgb(165, 194, 191);
+border-color:  rgb(165, 194, 191);}
