@@ -114,3 +114,16 @@ h2{
     font-weight: 700;
     text-align: left;
 }
+
+footer{
+    text-align: center;
+    background-color: rgb(1, 1, 12);
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.text-white{
+    color: snow;
+}
+#red{
+    color: salmon;
+}
